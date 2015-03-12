@@ -16,7 +16,7 @@ import java.util.Set;
  */
 public class bluetoothCManager {
 
-    //Un cambi
+    //Un cambioooooo
     // Puedo conectar solo a dispositivos emparejados, emparejo por MAC o por nombre,
     // De preferencia usar MAC pues es un identificador único
     public bluetoothCManager(String remoteID, int Type)
